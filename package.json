@@ -15,7 +15,8 @@
     "hubot-scripts": "^2.5.16",
     "hubot-youtube": "^0.1.2",
     "ntwitter": "^0.5.0",
-    "twit": "^1.1.20"
+    "twit": "^1.1.20",
+    "underscore": "~1.8.3"
   },
   "engines": {
     "node": "0.10.x"
