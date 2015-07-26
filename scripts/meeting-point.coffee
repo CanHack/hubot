@@ -13,7 +13,7 @@
 # Author:
 #   mrtazz
 
-places = ["Byblos", "3D Soma", "Se te va la tapa", "El mariscal del jamon"]
+places = ["el Byblos", "el Rincón rociero", "el bar Se te va la tapa", "el Mariscal del Jamon"]
 
 module.exports = (robot) ->
   robot.respond /(propon|di|sugiere|reserva) (un|otro) sitio/i, (msg) ->
