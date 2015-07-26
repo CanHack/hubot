@@ -1,1 +1,1 @@
-web: bin/hubot -a tg -n Jarvis
+web: bin/hubot -a telegram -n Jarvis

@@ -13,7 +13,6 @@
     "hubot-maps": "0.0.1",
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "^2.5.16",
-    "hubot-tg": "git://github.com/zenitram/hubot-tg",
     "hubot-youtube": "^0.1.2",
     "ntwitter": "^0.5.0",
     "twit": "^1.1.20"
